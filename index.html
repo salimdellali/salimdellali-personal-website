@@ -18,7 +18,7 @@
 	
 	<!-- Theme CSS -->
 	<link href="css/freelancer.min.css" rel="stylesheet">
-
+	
 </head>
 
 <body id="page-top">
@@ -154,14 +154,94 @@
 		</div>
 		
 		<!-- My Stack Section Content -->
-		<div class="row">
-			<div class="col-lg-4 ml-auto">
-				<p class="lead">the Matrix goes here</p>
+		
+			<div class="myStackContainer">
+				<div class="big" data-toggle="tooltip" data-placement="bottom" title="HTML5">
+					<span class="iconify" data-icon="logos:html-5" data-inline="false"></span>
+				</div>
+				<div class="big" data-toggle="tooltip" data-placement="bottom" title="CSS3">
+					<span class="iconify" data-icon="logos:css-3" data-inline="false"></span>
+				</div>
+				<div class="huge" data-toggle="tooltip" data-placement="bottom" title="Javascript ES6">
+					<span class="iconify" data-icon="logos:javascript" data-inline="false"></span>
+				</div>
+				<div class="big" data-toggle="tooltip" data-placement="bottom" title="PHP">
+					<span class="iconify" data-icon="logos:php" data-inline="false"></span>
+				</div>
+				<div class="big" data-toggle="tooltip" data-placement="bottom" title="SQL">
+					<span class="iconify" data-icon="ant-design:console-sql-outlined" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="MySQL Workbench">
+					<span class="iconify" data-icon="logos:mysql" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="Oracle Database">
+					<span class="iconify" data-icon="logos:oracle" data-inline="false"></span>
+				</div>
+				<div class="big" data-toggle="tooltip" data-placement="bottom" title="MySQL">
+					<span class="iconify" data-icon="cib:mysql" data-inline="false"></span>
+				</div>
+				<div class="huge" data-toggle="tooltip" data-placement="bottom" title="Bootstrap 4">
+					<span class="iconify" data-icon="logos:bootstrap" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="jQuery">
+					<span class="iconify" data-icon="logos:jquery" data-inline="false"></span>
+				</div>
+				<div class="big" data-toggle="tooltip" data-placement="bottom" title="GIT">
+					<span class="iconify" data-icon="logos:git" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="JSON">
+					<span class="iconify" data-icon="logos:json" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="Sass">
+					<span class="iconify" data-icon="logos:sass" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="Trello">
+					<span class="iconify" data-icon="cib:trello" data-inline="false"></span>
+				</div>
+				<div class="big" data-toggle="tooltip" data-placement="bottom" title="PhpStorm IDE">
+					<span class="iconify" data-icon="logos:phpstorm" data-inline="false"></span>
+				</div>
+				<div class="big" data-toggle="tooltip" data-placement="bottom" title="WebStorm IDE">
+					<span class="iconify" data-icon="logos:webstorm" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="Emmet">
+					<span class="iconify" data-icon="logos:emmet" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="FileZilla">
+					<span class="iconify" data-icon="cib:filezilla" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="cPanel">
+					<span class="iconify" data-icon="logos:cpanel" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="Slack">
+					<span class="iconify" data-icon="logos:slack-icon" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="Npm">
+					<span class="iconify" data-icon="logos:npm-2" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="Markdown">
+					<span class="iconify" data-icon="logos:markdown" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="Bitbucket">
+					<span class="iconify" data-icon="logos:bitbucket" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="Github">
+					<span class="iconify" data-icon="logos:github-icon" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="Gulp.js">
+					<span class="iconify" data-icon="logos:gulp" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="Adobe Illustrator">
+					<span class="iconify" data-icon="simple-icons:adobeillustrator" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="Microsoft Office">
+					<span class="iconify" data-icon="mdi:microsoft-office" data-inline="false"></span>
+				</div>
+				<div data-toggle="tooltip" data-placement="bottom" title="Google Suite">
+					<span class="iconify" data-icon="flat-color-icons:google" data-inline="false"></span>
+				</div>
 			</div>
-			<div class="col-lg-4 mr-auto">
-				<p class="lead">and here</p>
-			</div>
-		</div>
+		
 	</div>
 </section>
 
@@ -695,6 +775,15 @@
 
 <!-- Iconify -->
 <script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
+
+<!-- Custom Script -->
+<script>
+	
+	//Enable Boostrap tooltips
+	$(function () {
+		$('[data-toggle="tooltip"]').tooltip()
+	})
+</script>
 
 </body>
 

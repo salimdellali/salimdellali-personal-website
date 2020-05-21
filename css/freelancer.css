@@ -9853,3 +9853,33 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+.myStackContainer {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+  grid-auto-rows: 50px;
+  grid-auto-flow: dense;
+}
+
+.myStackContainer .big {
+  grid-row: span 2;
+  grid-column: span 2;
+}
+
+.myStackContainer .huge {
+  grid-row: span 4;
+  grid-column: span 4;
+}
+
+.myStackContainer div {
+  color: black;
+  border-radius: 0.5rem;
+  background-color: white;
+  padding: 5px;
+}
+
+.myStackContainer div * {
+  width: 100%;
+  height: 100%;
+}
