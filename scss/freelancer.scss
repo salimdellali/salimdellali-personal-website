@@ -19,3 +19,20 @@
 @import "layout/contact.scss";
 @import "layout/footer.scss";
 @import "layout/mystack";
+
+// Custom CSS
+// means from sm and down
+@include media-breakpoint-down(sm) {
+  .masthead-avatar{
+	width: 40% !important;
+	height: auto;
+  }
+}
+
+// means only md
+@include media-breakpoint-only(md) {
+  .masthead-avatar{
+	width: 80% !important;
+	height: auto;
+  }
+}
