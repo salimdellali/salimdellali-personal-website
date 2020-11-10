@@ -1,6 +1,6 @@
 # Salim Dellali's Personal Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/05ad2da4-24f1-4c55-ba79-8d5a1d86b277/deploy-status)](https://app.netlify.com/sites/salimdellali-personal-website/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f2ef1211-58bc-4483-8abe-d6efc6d6df27/deploy-status)](https://app.netlify.com/sites/salimdellali-personal-website/deploys)
 
 This is the repo of my personal website
 
