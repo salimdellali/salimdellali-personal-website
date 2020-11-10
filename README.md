@@ -6,7 +6,7 @@ This is the repo of my personal website
 
 Hosted on Netlify
 
-Visit the website via the link :  [https://salimdellali.netlify.app](https://salimdellali.netlify.app)
+Visit the website via the following link :  [https://salimdellali.netlify.app](https://salimdellali.netlify.app)
 
 ---
 
