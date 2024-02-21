@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Freelancer v5.1.3 (https://startbootstrap.com/template-overviews/freelancer)
- * Copyright 2013-2021 [object Object]
+ * Copyright 2013-2024 [object Object]
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
  */
 
@@ -1745,11 +1745,6 @@ pre code {
 }
 
 .form-control::-webkit-input-placeholder {
-  color: #6c757d;
-  opacity: 1;
-}
-
-.form-control::-moz-placeholder {
   color: #6c757d;
   opacity: 1;
 }
@@ -4996,15 +4991,6 @@ a.badge-dark:focus, a.badge-dark.focus {
   color: #040505;
 }
 
-@-webkit-keyframes progress-bar-stripes {
-  from {
-    background-position: 1rem 0;
-  }
-  to {
-    background-position: 0 0;
-  }
-}
-
 @keyframes progress-bar-stripes {
   from {
     background-position: 1rem 0;
@@ -5046,13 +5032,11 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .progress-bar-animated {
-  -webkit-animation: progress-bar-stripes 1s linear infinite;
   animation: progress-bar-stripes 1s linear infinite;
 }
 
 @media (prefers-reduced-motion: reduce) {
   .progress-bar-animated {
-    -webkit-animation: none;
     animation: none;
   }
 }
@@ -6121,12 +6105,6 @@ a.close.disabled {
   text-align: center;
 }
 
-@-webkit-keyframes spinner-border {
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 @keyframes spinner-border {
   to {
     transform: rotate(360deg);
@@ -6141,7 +6119,6 @@ a.close.disabled {
   border: 0.25em solid currentColor;
   border-right-color: transparent;
   border-radius: 50%;
-  -webkit-animation: spinner-border .75s linear infinite;
   animation: spinner-border .75s linear infinite;
 }
 
@@ -6149,15 +6126,6 @@ a.close.disabled {
   width: 1rem;
   height: 1rem;
   border-width: 0.2em;
-}
-
-@-webkit-keyframes spinner-grow {
-  0% {
-    transform: scale(0);
-  }
-  50% {
-    opacity: 1;
-  }
 }
 
 @keyframes spinner-grow {
@@ -6177,7 +6145,6 @@ a.close.disabled {
   background-color: currentColor;
   border-radius: 50%;
   opacity: 0;
-  -webkit-animation: spinner-grow .75s linear infinite;
   animation: spinner-grow .75s linear infinite;
 }
 
