@@ -6,11 +6,11 @@ This is the repo of my personal website
 
 Hosted on Netlify
 
-Visit the website via the following link :  [https://salimdellali.netlify.app](https://salimdellali.netlify.app)
+Visit the website via the following link : [https://salimdellali.netlify.app](https://salimdellali.netlify.app)
 
 ---
 
-## Technologies used so far
+## Technologies used
 
 - Theme : Freelancer v5.1.3 by Start Bootstrap
 - Bootstrap v4.3.1
