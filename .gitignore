@@ -1,4 +1,8 @@
-node_modules/*
+node_modules/
+dist/
+vendor/
+css/freelancer.css
+css/freelancer.min.css
 # Local Netlify folder
 .netlify
 deno.lock

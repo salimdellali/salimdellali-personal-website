@@ -12,13 +12,9 @@
     <title>Salim Dellali | Personal Website</title>
 
     <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
+    <link rel="stylesheet" href="/src/styles.scss" />
 
-    <!-- Custom fonts for this theme -->
-    <link
-      href="vendor/fontawesome-free/css/all.min.css"
-      rel="stylesheet"
-      type="text/css"
-    />
+    <!-- Google Fonts -->
     <link
       href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
       rel="stylesheet"
@@ -29,9 +25,6 @@
       rel="stylesheet"
       type="text/css"
     />
-
-    <!-- Theme CSS -->
-    <link href="css/freelancer.min.css" rel="stylesheet" />
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
@@ -5082,30 +5075,9 @@
       </a>
     </div>
 
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
-    <!-- Custom scripts for this template -->
-    <script src="js/freelancer.min.js"></script>
-
     <!-- Iconify -->
     <script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
 
-    <!-- Custom Script -->
-    <script>
-      //Enable Boostrap tooltips
-      $(function () {
-        $('[data-toggle="tooltip"]').tooltip()
-      })
-
-      //Calculate current year
-      let thisYear = new Date().getFullYear()
-
-      document.querySelector("#thisYear").innerHTML = thisYear.toString()
-    </script>
+    <script type="module" src="/src/main.js"></script>
   </body>
 </html>
