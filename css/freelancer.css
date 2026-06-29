@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Freelancer v5.1.3 (https://startbootstrap.com/template-overviews/freelancer)
- * Copyright 2013-2025 [object Object]
+ * Copyright 2013-2026 [object Object]
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
  */
 
