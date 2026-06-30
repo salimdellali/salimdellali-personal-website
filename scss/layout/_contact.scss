@@ -1,4 +1,10 @@
 // Styling for the contact section
+
+// BS5 removed .form-group — restore its margin to match BS4
+.form-group {
+  margin-bottom: 1rem;
+}
+
 .floating-label-form-group {
   position: relative;
   border-bottom: 1px solid $gray-200;
@@ -14,6 +20,9 @@
     border-radius: 0;
     background: none;
     box-shadow: none !important;
+  }
+  input {
+    height: calc(1.5em + 1rem);
   }
   label {
     font-size: 0.85em;

@@ -16,7 +16,7 @@ class PortfolioModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -182,12 +182,12 @@ class PortfolioModals extends HTMLElement {
                     rel="noopener noreferrer"
                   >
                     <i class="fab fa-github fa-fw"></i>
-                    GitHub Repo ⇱
+                    GitHub Repo <i class="fas fa-external-link-alt"></i>
                   </a>
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window
@@ -214,7 +214,7 @@ class PortfolioModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -387,7 +387,7 @@ class PortfolioModals extends HTMLElement {
                     rel="noopener noreferrer"
                   >
                     <i class="fas fa-paper-plane fa-fw"></i>
-                    Visit REST API ⇱
+                    Visit REST API <i class="fas fa-external-link-alt"></i>
                   </a>
                   <a
                     class="btn btn-dark mb-1 mb-md-0"
@@ -396,12 +396,12 @@ class PortfolioModals extends HTMLElement {
                     rel="noopener noreferrer"
                   >
                     <i class="fab fa-github fa-fw"></i>
-                    GitHub Repo ⇱
+                    GitHub Repo <i class="fas fa-external-link-alt"></i>
                   </a>
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window
@@ -428,7 +428,7 @@ class PortfolioModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -584,7 +584,7 @@ class PortfolioModals extends HTMLElement {
                     rel="noopener noreferrer"
                   >
                     <i class="fas fa-paper-plane fa-fw"></i>
-                    Visit REST API ⇱
+                    Visit REST API <i class="fas fa-external-link-alt"></i>
                   </a>
                   <a
                     class="btn btn-dark mb-1 mb-md-0"
@@ -593,12 +593,12 @@ class PortfolioModals extends HTMLElement {
                     rel="noopener noreferrer"
                   >
                     <i class="fab fa-github fa-fw"></i>
-                    GitHub Repo ⇱
+                    GitHub Repo <i class="fas fa-external-link-alt"></i>
                   </a>
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window
@@ -625,7 +625,7 @@ class PortfolioModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -794,7 +794,7 @@ class PortfolioModals extends HTMLElement {
                     rel="noopener noreferrer"
                   >
                     <i class="fas fa-paper-plane fa-fw"></i>
-                    Visit REST API ⇱
+                    Visit REST API <i class="fas fa-external-link-alt"></i>
                   </a>
                   <a
                     class="btn btn-dark mb-1 mb-md-0"
@@ -803,12 +803,12 @@ class PortfolioModals extends HTMLElement {
                     rel="noopener noreferrer"
                   >
                     <i class="fab fa-github fa-fw"></i>
-                    GitHub Repo ⇱
+                    GitHub Repo <i class="fas fa-external-link-alt"></i>
                   </a>
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window
@@ -835,7 +835,7 @@ class PortfolioModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -1013,7 +1013,7 @@ class PortfolioModals extends HTMLElement {
                     rel="noopener noreferrer"
                   >
                     <i class="fas fa-paper-plane fa-fw"></i>
-                    Visit Website ⇱
+                    Visit Website <i class="fas fa-external-link-alt"></i>
                   </a>
                   <a
                     class="btn btn-dark mb-1 mb-md-0"
@@ -1022,12 +1022,12 @@ class PortfolioModals extends HTMLElement {
                     rel="noopener noreferrer"
                   >
                     <i class="fab fa-github fa-fw"></i>
-                    GitHub Repo ⇱
+                    GitHub Repo <i class="fas fa-external-link-alt"></i>
                   </a>
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window
@@ -1054,7 +1054,7 @@ class PortfolioModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -1225,12 +1225,12 @@ class PortfolioModals extends HTMLElement {
                     rel="noopener noreferrer"
                   >
                     <i class="fab fa-github fa-fw"></i>
-                    GitHub Repo ⇱
+                    GitHub Repo <i class="fas fa-external-link-alt"></i>
                   </a>
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window
@@ -1257,7 +1257,7 @@ class PortfolioModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -1315,7 +1315,7 @@ class PortfolioModals extends HTMLElement {
                         href="https://startbootstrap.com/themes/freelancer/"
                         target="_blank"
                         rel="noopener noreferrer"
-                        >Freelancer v5.1.3 ⇱</a
+                        >Freelancer v5.1.3 <i class="fas fa-external-link-alt"></i></a
                       >
                       by Start Bootstrap
                     </li>
@@ -1404,12 +1404,12 @@ class PortfolioModals extends HTMLElement {
                     rel="noopener noreferrer"
                   >
                     <i class="fab fa-github fa-fw"></i>
-                    GitHub Repo ⇱
+                    GitHub Repo <i class="fas fa-external-link-alt"></i>
                   </a>
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window
@@ -1436,7 +1436,7 @@ class PortfolioModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -1502,7 +1502,7 @@ class PortfolioModals extends HTMLElement {
                         href="https://colorlib.com/wp/template/martxa/"
                         target="_blank"
                         rel="noopener noreferrer"
-                        >Martxa ⇱</a
+                        >Martxa <i class="fas fa-external-link-alt"></i></a
                       >
                       by Colorlib
                     </li>
@@ -1591,12 +1591,12 @@ class PortfolioModals extends HTMLElement {
                     rel="noopener noreferrer"
                   >
                     <i class="fas fa-paper-plane fa-fw"></i>
-                    Visit Website ⇱
+                    Visit Website <i class="fas fa-external-link-alt"></i>
                   </a>
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window
@@ -1623,7 +1623,7 @@ class PortfolioModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -1690,7 +1690,7 @@ class PortfolioModals extends HTMLElement {
                         href="https://colorlib.com/wp/template/car-rental/"
                         target="_blank"
                         rel="noopener noreferrer"
-                        >Car Rental ⇱</a
+                        >Car Rental <i class="fas fa-external-link-alt"></i></a
                       >
                       by Colorlib
                     </li>
@@ -1802,12 +1802,12 @@ class PortfolioModals extends HTMLElement {
                     rel="noopener noreferrer"
                   >
                     <i class="fas fa-paper-plane fa-fw"></i>
-                    Visit Website ⇱
+                    Visit Website <i class="fas fa-external-link-alt"></i>
                   </a>
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window

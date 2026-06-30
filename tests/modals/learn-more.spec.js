@@ -16,7 +16,7 @@ test.beforeEach(async ({ page }) => {
 
 for (const modalId of LEARN_MORE_MODALS) {
   test(modalId, async ({ page }) => {
-    await page.click(`[data-target="#${modalId}"]`)
+    await page.click(`[data-bs-target="#${modalId}"]`)
     await page.waitForSelector(`#${modalId}.show`, { state: 'visible' })
     await expect(page).toHaveScreenshot('open.png')
 

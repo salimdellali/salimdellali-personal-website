@@ -28,11 +28,11 @@ class PortfolioSection extends HTMLElement {
         <!-- Portfolio Backend Projects Grid Items -->
         <div class="row">
           <!-- Portfolio Item mini twitter rest api backend server -->
-          <div class="col-md-4 col-lg-4 ml-auto">
+          <div class="col-md-4 col-lg-4 ms-auto">
             <div
               class="portfolio-item border"
-              data-toggle="modal"
-              data-target="#portfolioModalMiniTwitterRestApiBackendServer"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModalMiniTwitterRestApiBackendServer"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
@@ -52,11 +52,11 @@ class PortfolioSection extends HTMLElement {
           </div>
 
           <!-- Portfolio Item text storing processing -->
-          <div class="col-md-4 col-lg-4 mr-auto">
+          <div class="col-md-4 col-lg-4 me-auto">
             <div
               class="portfolio-item border"
-              data-toggle="modal"
-              data-target="#portfolioModalTextStoringProcessing"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModalTextStoringProcessing"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
@@ -79,11 +79,11 @@ class PortfolioSection extends HTMLElement {
 
         <div class="row mb-5">
           <!-- Portfolio Item text storing processing -->
-          <div class="col-md-4 col-lg-4 ml-auto">
+          <div class="col-md-4 col-lg-4 ms-auto">
             <div
               class="portfolio-item border"
-              data-toggle="modal"
-              data-target="#portfolioModalParkingLotServer"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModalParkingLotServer"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
@@ -103,11 +103,11 @@ class PortfolioSection extends HTMLElement {
           </div>
 
           <!-- Portfolio Item dummy react conf server -->
-          <div class="col-md-4 col-lg-4 mr-auto">
+          <div class="col-md-4 col-lg-4 me-auto">
             <div
               class="portfolio-item border"
-              data-toggle="modal"
-              data-target="#portfolioModalDummyReactConfServer"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModalDummyReactConfServer"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
@@ -136,11 +136,11 @@ class PortfolioSection extends HTMLElement {
         <!-- Portfolio Frontend Projects Grid Items -->
         <div class="row">
           <!-- Portfolio Item dummy react conf dashboard -->
-          <div class="col-md-4 col-lg-4 ml-auto">
+          <div class="col-md-4 col-lg-4 ms-auto">
             <div
               class="portfolio-item border"
-              data-toggle="modal"
-              data-target="#portfolioModalDummyReactConfDashboard"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModalDummyReactConfDashboard"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
@@ -160,11 +160,11 @@ class PortfolioSection extends HTMLElement {
           </div>
 
           <!-- Portfolio Item dummy react conf website -->
-          <div class="col-md-4 col-lg-4 mr-auto">
+          <div class="col-md-4 col-lg-4 me-auto">
             <div
               class="portfolio-item border"
-              data-toggle="modal"
-              data-target="#portfolioModalDummyReactConfWebsite"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModalDummyReactConfWebsite"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
@@ -187,11 +187,11 @@ class PortfolioSection extends HTMLElement {
 
         <div class="row mb-5">
           <!-- Portfolio Item salim dellali -->
-          <div class="col-md-4 col-lg-4 ml-auto">
+          <div class="col-md-4 col-lg-4 ms-auto">
             <div
               class="portfolio-item border"
-              data-toggle="modal"
-              data-target="#portfolioModalSalimDellali"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModalSalimDellali"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
@@ -211,11 +211,11 @@ class PortfolioSection extends HTMLElement {
           </div>
 
           <!-- Portfolio Item mediafex -->
-          <div class="col-md-4 col-lg-4 mr-auto">
+          <div class="col-md-4 col-lg-4 me-auto">
             <div
               class="portfolio-item border"
-              data-toggle="modal"
-              data-target="#portfolioModalMediafex"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModalMediafex"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
@@ -247,8 +247,8 @@ class PortfolioSection extends HTMLElement {
           <div class="col-md-4 col-lg-4 mx-auto">
             <div
               class="portfolio-item mx-auto border"
-              data-toggle="modal"
-              data-target="#portfolioModalLinexAlgeria"
+              data-bs-toggle="modal"
+              data-bs-target="#portfolioModalLinexAlgeria"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"

@@ -32,8 +32,8 @@ class LearnMoreSection extends HTMLElement {
           <div class="col-md-4 col-lg-4">
             <div
               class="portfolio-item mx-auto"
-              data-toggle="modal"
-              data-target="#learnMoreModalEducation"
+              data-bs-toggle="modal"
+              data-bs-target="#learnMoreModalEducation"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
@@ -56,8 +56,8 @@ class LearnMoreSection extends HTMLElement {
           <div class="col-md-4 col-lg-4">
             <div
               class="portfolio-item mx-auto"
-              data-toggle="modal"
-              data-target="#learnMoreModalWork"
+              data-bs-toggle="modal"
+              data-bs-target="#learnMoreModalWork"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
@@ -76,8 +76,8 @@ class LearnMoreSection extends HTMLElement {
           <div class="col-md-4 col-lg-4">
             <div
               class="portfolio-item mx-auto"
-              data-toggle="modal"
-              data-target="#learnMoreModalAiesec"
+              data-bs-toggle="modal"
+              data-bs-target="#learnMoreModalAiesec"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
@@ -100,8 +100,8 @@ class LearnMoreSection extends HTMLElement {
           <div class="col-md-4 col-lg-4">
             <div
               class="portfolio-item mx-auto"
-              data-toggle="modal"
-              data-target="#learnMoreModalHobbies"
+              data-bs-toggle="modal"
+              data-bs-target="#learnMoreModalHobbies"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
@@ -124,8 +124,8 @@ class LearnMoreSection extends HTMLElement {
           <div class="col-md-4 col-lg-4">
             <div
               class="portfolio-item mx-auto"
-              data-toggle="modal"
-              data-target="#learnMoreModalLanguages"
+              data-bs-toggle="modal"
+              data-bs-target="#learnMoreModalLanguages"
             >
               <div
                 class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"

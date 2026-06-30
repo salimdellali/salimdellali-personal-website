@@ -22,6 +22,31 @@ $border-radius-sm: 0.25rem !default;
 // Override Bootstrap input/button variables
 $input-btn-border-width: $border-width !default;
 
+// Disable responsive font sizes (BS5 default) to match BS4's fixed heading sizes
+$enable-rfs: false !default;
+
+// Restore BS4 grid gutter width (BS5 changed from 30px to 24px)
+$grid-gutter-width: 1.875rem !default;
+
+// BS5 added xxl breakpoint (1400px → 1320px container). Match BS4's max of 1140px.
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1140px
+) !default;
+
+// BS5 added visible border on navbar-toggler; restore BS4 transparent
+$navbar-light-toggler-border-color: transparent !default;
+$navbar-dark-toggler-border-color: transparent !default;
+
+// BS5 changed card padding defaults; restore BS4 values.
+$card-spacer-y: 1.25rem !default;
+$card-spacer-x: 1.25rem !default;
+$card-cap-padding-y: 0.75rem !default;
+$card-cap-padding-x: 1.25rem !default;
+
 // Override Bootstrap modal variables
 $modal-inner-padding: 4rem 1rem !default;
 $modal-content-border-width: 0 !default;

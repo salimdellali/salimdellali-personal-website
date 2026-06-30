@@ -5,7 +5,7 @@ class SiteMasthead extends HTMLElement {
     <header class="masthead bg-primary text-white text-center">
       <div class="container">
         <div class="row">
-          <div class="col-md-4 text-md-right mb-4">
+          <div class="col-md-4 text-md-end mb-4">
             <img
               class="masthead-avatar"
               src="img/fullnobgcropped.png"
@@ -26,7 +26,7 @@ class SiteMasthead extends HTMLElement {
             </div>
 
             <!-- Masthead Subheading -->
-            <h3 class="masthead-subheading font-weight-light mb-0 mt-4">
+            <h3 class="masthead-subheading fw-light mb-0 mt-4">
               Software Engineer &<br />
               Fullstack Typescript<br />
               Web Developer
@@ -47,7 +47,7 @@ class SiteMasthead extends HTMLElement {
                   class="btn btn-outline-light js-scroll-trigger"
                   href="#contact"
                 >
-                  <i class="far fa-handshake mr-2"></i>
+                  <i class="far fa-handshake me-2"></i>
                   Hire Me
                 </a>
               </div>

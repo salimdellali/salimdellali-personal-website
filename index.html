@@ -59,6 +59,13 @@
 
     <learn-more-modals></learn-more-modals>
 
+    <!-- Hidden form for Netlify build-time detection (real form is in contact-section web component) -->
+    <form name="sentMessage" data-netlify="true" hidden>
+      <input type="text" name="name" />
+      <input type="email" name="email" />
+      <textarea name="message"></textarea>
+    </form>
+
     <contact-section></contact-section>
     <site-footer></site-footer>
 

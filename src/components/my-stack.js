@@ -27,8 +27,8 @@ class MyStack extends HTMLElement {
         <div class="myStackContainer mb-5">
           <div
             class="huge"
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="Typescript"
           >
             <span
@@ -39,8 +39,8 @@ class MyStack extends HTMLElement {
           </div>
           <div
             class="big"
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="Node.js"
           >
             <span
@@ -51,8 +51,8 @@ class MyStack extends HTMLElement {
           </div>
           <div
             class="big"
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="React.js"
           >
             <span
@@ -63,8 +63,8 @@ class MyStack extends HTMLElement {
           </div>
           <div
             class="big"
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="Next.js"
           >
             <span
@@ -75,8 +75,8 @@ class MyStack extends HTMLElement {
           </div>
           <div
             class="big"
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="Jest"
           >
             <span
@@ -87,8 +87,8 @@ class MyStack extends HTMLElement {
           </div>
           <div
             class="big"
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="GIT"
           >
             <span
@@ -99,8 +99,8 @@ class MyStack extends HTMLElement {
           </div>
           <div
             class="big"
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="Github"
           >
             <span
@@ -111,8 +111,8 @@ class MyStack extends HTMLElement {
           </div>
           <div
             class="big"
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="Github Copilot"
           >
             <span
@@ -123,8 +123,8 @@ class MyStack extends HTMLElement {
           </div>
           <div
             class="big"
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="VSCode"
           >
             <span
@@ -135,8 +135,8 @@ class MyStack extends HTMLElement {
           </div>
           <div
             class="big"
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="REST API"
           >
             <span
@@ -147,8 +147,8 @@ class MyStack extends HTMLElement {
           </div>
           <div
             class="big"
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="Applied AI and Prompt Engineering"
           >
             <span
@@ -159,8 +159,8 @@ class MyStack extends HTMLElement {
           </div>
           <div
             class="big"
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="WSL"
           >
             <span
@@ -169,21 +169,21 @@ class MyStack extends HTMLElement {
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Javascript ES6">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Javascript ES6">
             <span
               class="iconify"
               data-icon="logos:javascript"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Express.js">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Express.js">
             <span
               class="iconify"
               data-icon="simple-icons:express"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="NestJS">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="NestJS">
             <span
               class="iconify"
               data-icon="logos:nestjs"
@@ -191,8 +191,8 @@ class MyStack extends HTMLElement {
             ></span>
           </div>
           <div
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="Langchain.js"
           >
             <span
@@ -201,42 +201,42 @@ class MyStack extends HTMLElement {
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="SQL">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="SQL">
             <span
               class="iconify"
               data-icon="ant-design:console-sql-outlined"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Supabase">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Supabase">
             <span
               class="iconify"
               data-icon="devicon:supabase"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="DrizzleORM">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="DrizzleORM">
             <span
               class="iconify"
               data-icon="material-icon-theme:drizzle"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Prisma">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Prisma">
             <span
               class="iconify"
               data-icon="skill-icons:prisma"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="NoSQL">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="NoSQL">
             <span
               class="iconify"
               data-icon="whh:nosql"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="MongoDB">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="MongoDB">
             <span
               class="iconify"
               data-icon="vscode-icons:file-type-mongo"
@@ -244,8 +244,8 @@ class MyStack extends HTMLElement {
             ></span>
           </div>
           <div
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="Mongoose.js"
           >
             <span
@@ -254,7 +254,7 @@ class MyStack extends HTMLElement {
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Swagger">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Swagger">
             <span
               class="iconify"
               data-icon="logos:swagger"
@@ -262,8 +262,8 @@ class MyStack extends HTMLElement {
             ></span>
           </div>
           <div
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="JSON Web Token"
           >
             <span
@@ -272,35 +272,35 @@ class MyStack extends HTMLElement {
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Postman">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Postman">
             <span
               class="iconify"
               data-icon="logos:postman-icon"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Redux">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Redux">
             <span
               class="iconify"
               data-icon="logos:redux"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Vercel">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Vercel">
             <span
               class="iconify"
               data-icon="devicon:vercel"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Netlify">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Netlify">
             <span
               class="iconify"
               data-icon="vscode-icons:file-type-light-netlify"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="UML">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="UML">
             <span
               class="iconify"
               data-icon="simple-icons:uml"
@@ -316,35 +316,35 @@ class MyStack extends HTMLElement {
 
         <!-- Past Stack Section Content -->
         <div class="myStackContainer mb-5">
-          <div data-toggle="tooltip" data-placement="bottom" title="PHP">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="PHP">
             <span
               class="iconify"
               data-icon="akar-icons:php-fill"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="jQuery">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="jQuery">
             <span
               class="iconify"
               data-icon="akar-icons:jquery-fill"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Gulp">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Gulp">
             <span
               class="iconify"
               data-icon="cib:gulp"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Heroku">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Heroku">
             <span
               class="iconify"
               data-icon="simple-icons:heroku"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Wordpress">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Wordpress">
             <span
               class="iconify"
               data-icon="bi:wordpress"
@@ -352,8 +352,8 @@ class MyStack extends HTMLElement {
             ></span>
           </div>
           <div
-            data-toggle="tooltip"
-            data-placement="bottom"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
             title="WAMP Server"
           >
             <span
@@ -362,98 +362,98 @@ class MyStack extends HTMLElement {
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="PhpStorm">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="PhpStorm">
             <span
               class="iconify"
               data-icon="simple-icons:phpstorm"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="WebStorm">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="WebStorm">
             <span
               class="iconify"
               data-icon="cib:webstorm"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Filezilla">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Filezilla">
             <span
               class="iconify"
               data-icon="cib:filezilla"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="cPanel">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="cPanel">
             <span
               class="iconify"
               data-icon="cib:cpanel"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Drupal">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Drupal">
             <span
               class="iconify"
               data-icon="simple-icons:drupal"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Java">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Java">
             <span
               class="iconify"
               data-icon="cib:java"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="JBoss">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="JBoss">
             <span
               class="iconify"
               data-icon="whh:java"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Oracle">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Oracle">
             <span
               class="iconify"
               data-icon="fontisto:oracle"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="MS Access">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="MS Access">
             <span
               class="iconify"
               data-icon="file-icons:microsoft-access"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Eclipse">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Eclipse">
             <span
               class="iconify"
               data-icon="cib:eclipseide"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Perl">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Perl">
             <span
               class="iconify"
               data-icon="simple-icons:perl"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Assembly">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Assembly">
             <span
               class="iconify"
               data-icon="file-icons:assembly-intel"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="C">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="C">
             <span
               class="iconify"
               data-icon="simple-icons:c"
               data-inline="false"
             ></span>
           </div>
-          <div data-toggle="tooltip" data-placement="bottom" title="Pascal">
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Pascal">
             <span class="iconify" data-icon="ps:pc" data-inline="false"></span>
           </div>
         </div>

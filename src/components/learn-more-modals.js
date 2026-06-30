@@ -16,7 +16,7 @@ class LearnMoreModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -174,7 +174,7 @@ class LearnMoreModals extends HTMLElement {
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window
@@ -201,7 +201,7 @@ class LearnMoreModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -817,7 +817,7 @@ class LearnMoreModals extends HTMLElement {
                           href="https://dummy-react-conf-website.netlify.app"
                           target="_blank"
                           rel="noopener noreferrer"
-                          >here ⇱</a
+                          >here <i class="fas fa-external-link-alt"></i></a
                         >.
                       </li>
                       <li>
@@ -826,7 +826,7 @@ class LearnMoreModals extends HTMLElement {
                           href="https://dummy-react-conf-dashboard.netlify.app/"
                           target="_blank"
                           rel="noopener noreferrer"
-                          >here ⇱</a
+                          >here <i class="fas fa-external-link-alt"></i></a
                         >.
                       </li>
                     </ul>
@@ -838,7 +838,7 @@ class LearnMoreModals extends HTMLElement {
                           href="https://dummy-react-conf-server.onrender.com"
                           target="_blank"
                           rel="noopener noreferrer"
-                          >here ⇱</a
+                          >here <i class="fas fa-external-link-alt"></i></a
                         >.
                       </li>
                       <li>
@@ -847,7 +847,7 @@ class LearnMoreModals extends HTMLElement {
                           href="https://parking-lot-server.onrender.com"
                           target="_blank"
                           rel="noopener noreferrer"
-                          >here ⇱</a
+                          >here <i class="fas fa-external-link-alt"></i></a
                         >.
                       </li>
                       <li>
@@ -856,7 +856,7 @@ class LearnMoreModals extends HTMLElement {
                           href="https://text-storing-processing.onrender.com/text"
                           target="_blank"
                           rel="noopener noreferrer"
-                          >here ⇱</a
+                          >here <i class="fas fa-external-link-alt"></i></a
                         >.
                       </li>
                     </ul>
@@ -1240,7 +1240,7 @@ class LearnMoreModals extends HTMLElement {
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window
@@ -1267,7 +1267,7 @@ class LearnMoreModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -1427,7 +1427,7 @@ class LearnMoreModals extends HTMLElement {
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window
@@ -1454,7 +1454,7 @@ class LearnMoreModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -1535,7 +1535,7 @@ class LearnMoreModals extends HTMLElement {
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window
@@ -1562,7 +1562,7 @@ class LearnMoreModals extends HTMLElement {
           <button
             type="button"
             class="close"
-            data-dismiss="modal"
+            data-bs-dismiss="modal"
             aria-label="Close"
           >
             <span aria-hidden="true">
@@ -1880,7 +1880,7 @@ class LearnMoreModals extends HTMLElement {
                   <button
                     class="btn btn-secondary"
                     href="#"
-                    data-dismiss="modal"
+                    data-bs-dismiss="modal"
                   >
                     <i class="fas fa-times fa-fw"></i>
                     Close Window

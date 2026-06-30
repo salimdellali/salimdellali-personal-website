@@ -35,6 +35,7 @@ class ContactSection extends HTMLElement {
               novalidate="novalidate"
               data-netlify="true"
             >
+              <input type="hidden" name="form-name" value="sentMessage" />
               <div class="control-group">
                 <div
                   class="form-group floating-label-form-group controls mb-0 pb-2"
@@ -90,7 +91,7 @@ class ContactSection extends HTMLElement {
                 <div
                   class="form-group floating-label-form-group controls mb-0 py-2"
                 >
-                  <div data-netlify-recaptcha="true"></div>
+                  <div class="g-recaptcha" data-sitekey="6LdnkKEqAAAAAPvyqoRAmjXxvE6evlb5z-5Ol90Y"></div>
                 </div>
               </div>
               <br />
@@ -110,6 +111,13 @@ class ContactSection extends HTMLElement {
       </div>
     </section>
     `
+
+    if (!document.querySelector('script[src*="recaptcha/api.js"]')) {
+      const script = document.createElement('script')
+      script.src = 'https://www.google.com/recaptcha/api.js'
+      script.async = true
+      document.head.appendChild(script)
+    }
   }
 }
 

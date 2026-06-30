@@ -1,3 +1,10 @@
+// BS5 color-contrast() picks dark text on $primary (#1abc9c); restore BS4 white
+.btn-primary {
+  --bs-btn-color: #fff;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-active-color: #fff;
+}
+
 // Custom extra larg button size
 .btn-xl {
   padding: 1rem 1.75rem;
@@ -15,6 +22,13 @@
   align-items: center;
 }
 
+// External link icon — superscript style
+.fa-external-link-alt {
+  font-size: 0.5em;
+  vertical-align: super;
+  margin-left: 0.3em;
+}
+
 // Scroll to top button
 .scroll-to-top {
   z-index: 1042;
@@ -24,7 +38,7 @@
   a {
     width: 3.5rem;
     height: 3.5rem;
-    background-color: fade-out($gray-900, 0.5);
+    background-color: rgba($gray-900, 0.5);
     line-height: 3.1rem;
   }
 }
