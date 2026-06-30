@@ -11,4 +11,4 @@ import './components/site-footer.js'
 import './components/copyright-section.js'
 import './components/scroll-to-top.js'
 
-import '../js/freelancer.js'
+import './freelancer.js'
