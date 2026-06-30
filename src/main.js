@@ -3,10 +3,12 @@ window.$ = window.jQuery = $
 
 import 'jquery.easing'
 import 'bootstrap'
+
+import './components/copyright-section.js'
+import './components/scroll-to-top.js'
+
 import '../js/freelancer.js'
 
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
 })
-
-document.querySelector('#thisYear').innerHTML = new Date().getFullYear().toString()

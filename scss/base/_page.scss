@@ -1,3 +1,11 @@
+main-nav, site-masthead, about-me, my-stack,
+portfolio-section, portfolio-modals,
+learn-more-section, learn-more-modals,
+contact-section, site-footer,
+copyright-section, scroll-to-top {
+  display: contents;
+}
+
 // Styling for page sections
 .page-section {
   padding: 6rem 0;
