@@ -248,7 +248,7 @@ class LearnMoreModals extends HTMLElement {
                     <h6>
                       Foci Solutions | Remote from Ottawa, Ontario, Canada
                     </h6>
-                    <p><strong>June 2025 - Present</strong></p>
+                    <p><strong>June 2025 - December 2025</strong></p>
                     <p>
                       Foci Solutions (Medium-sized company of 30 employees) is
                       an Ottawa-based software consultancy empowering people to
@@ -256,13 +256,14 @@ class LearnMoreModals extends HTMLElement {
                     </p>
                     <p>
                       Being part Foci Solutions,
-                      <strong>my main tasks are :</strong>
+                      <strong>my main tasks were :</strong>
                     </p>
                     <ul>
+                      <li>Contribute to internal R&D projects</li>
                       <li>Deliver technical project implementations</li>
-                      <li>Focus on the application of AI</li>
+                      <li>Focus on applying AI into software development</li>
                     </ul>
-                    <p><strong>Main Technologies in use :</strong></p>
+                    <p><strong>Main Technologies used :</strong></p>
                     <ul class="list-unstyled">
                       <li>
                         <span
@@ -319,6 +320,14 @@ class LearnMoreModals extends HTMLElement {
                           data-inline="false"
                         ></span>
                         GitHub Copilot
+                      </li>
+                      <li>
+                        <span
+                          class="iconify"
+                          data-icon="carbon:ai"
+                          data-inline="false"
+                        ></span>
+                        Task Master AI
                       </li>
                       <li>
                         <span
@@ -431,7 +440,7 @@ class LearnMoreModals extends HTMLElement {
                       <li>
                         <span
                           class="iconify"
-                          data-icon="simple-icons:langchain"
+                          data-icon="noto:parrot"
                           data-inline="false"
                         ></span>
                         Langchain.js

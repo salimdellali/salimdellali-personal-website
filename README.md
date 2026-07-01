@@ -12,10 +12,12 @@ Visit the website via the following link : [https://salimdellali.netlify.app](ht
 
 ## Technologies used
 
-- Theme : Freelancer v5.1.3 by Start Bootstrap
-- Bootstrap v4.3.1
-- Iconify v1.0.6
-- CSS Grid System
-- Sass v1.26.3
-- Npm v6.13.4
-- Gulp.js v4.0.2
+- Theme: Freelancer by Start Bootstrap (migrated to Bootstrap 5)
+- Bootstrap v5.3.8
+- Iconify (CDN)
+- Web Components (native custom elements)
+- Sass v1.81.0
+- Vite v6.0.0
+- Playwright v1.61.1
+- Font Awesome v5.10.2
+- Hosted on Netlify

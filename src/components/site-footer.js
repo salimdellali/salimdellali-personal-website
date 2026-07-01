@@ -25,14 +25,6 @@ class SiteFooter extends HTMLElement {
             <a
               class="btn btn-outline-light btn-social mx-1 mb-4"
               target="_blank"
-              href="https://twitter.com/DellaliSalim"
-              rel="noopener noreferrer"
-            >
-              <i class="fab fa-fw fa-twitter"></i>
-            </a>
-            <a
-              class="btn btn-outline-light btn-social mx-1 mb-4"
-              target="_blank"
               href="https://www.linkedin.com/in/dellalisalim/"
               rel="noopener noreferrer"
             >

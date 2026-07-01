@@ -27,9 +27,9 @@ class SiteMasthead extends HTMLElement {
 
             <!-- Masthead Subheading -->
             <h3 class="masthead-subheading fw-light mb-0 mt-4">
-              Software Engineer &<br />
-              Fullstack Typescript<br />
-              Web Developer
+              Software Engineer<br />
+              Fullstack Web Developer<br />
+              Applied AI Engineer
             </h3>
 
             <!-- Icon Divider -->

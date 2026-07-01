@@ -49,6 +49,20 @@ class MyStack extends HTMLElement {
               data-inline="false"
             ></span>
           </div>
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Javascript ES6">
+            <span
+              class="iconify"
+              data-icon="logos:javascript"
+              data-inline="false"
+            ></span>
+          </div>
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Express.js">
+            <span
+              class="iconify"
+              data-icon="simple-icons:express"
+              data-inline="false"
+            ></span>
+          </div>
           <div
             class="big"
             data-bs-toggle="tooltip"
@@ -74,7 +88,6 @@ class MyStack extends HTMLElement {
             ></span>
           </div>
           <div
-            class="big"
             data-bs-toggle="tooltip"
             data-bs-placement="bottom"
             title="Jest"
@@ -110,7 +123,6 @@ class MyStack extends HTMLElement {
             ></span>
           </div>
           <div
-            class="big"
             data-bs-toggle="tooltip"
             data-bs-placement="bottom"
             title="Github Copilot"
@@ -118,6 +130,18 @@ class MyStack extends HTMLElement {
             <span
               class="iconify"
               data-icon="octicon:copilot-24"
+              data-inline="false"
+            ></span>
+          </div>
+          <div
+            class="big"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
+            title="Claude Code"
+          >
+            <span
+              class="iconify"
+              data-icon="material-icon-theme:claude"
               data-inline="false"
             ></span>
           </div>
@@ -149,16 +173,22 @@ class MyStack extends HTMLElement {
             class="big"
             data-bs-toggle="tooltip"
             data-bs-placement="bottom"
-            title="Applied AI and Prompt Engineering"
+            title="Spec Driven Development"
           >
             <span
               class="iconify"
-              data-icon="arcticons:openai-chatgpt"
+              data-icon="si:ai-fill"
+              data-inline="false"
+            ></span>
+          </div>
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Azure AI Foundry">
+            <span
+              class="iconify"
+              data-icon="material-icon-theme:azure"
               data-inline="false"
             ></span>
           </div>
           <div
-            class="big"
             data-bs-toggle="tooltip"
             data-bs-placement="bottom"
             title="WSL"
@@ -169,17 +199,15 @@ class MyStack extends HTMLElement {
               data-inline="false"
             ></span>
           </div>
-          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Javascript ES6">
+          <div
+            class="big"
+            data-bs-toggle="tooltip"
+            data-bs-placement="bottom"
+            title="CLI"
+          >
             <span
               class="iconify"
-              data-icon="logos:javascript"
-              data-inline="false"
-            ></span>
-          </div>
-          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="Express.js">
-            <span
-              class="iconify"
-              data-icon="simple-icons:express"
+              data-icon="glyphs-poly:laptop-cli"
               data-inline="false"
             ></span>
           </div>
@@ -197,7 +225,7 @@ class MyStack extends HTMLElement {
           >
             <span
               class="iconify"
-              data-icon="simple-icons:langchain"
+              data-icon="noto:parrot"
               data-inline="false"
             ></span>
           </div>
@@ -269,6 +297,13 @@ class MyStack extends HTMLElement {
             <span
               class="iconify"
               data-icon="logos:jwt-icon"
+              data-inline="false"
+            ></span>
+          </div>
+          <div data-bs-toggle="tooltip" data-bs-placement="bottom" title="PostgreSQL">
+            <span
+              class="iconify"
+              data-icon="devicon:postgresql"
               data-inline="false"
             ></span>
           </div>

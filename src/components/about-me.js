@@ -29,7 +29,7 @@ class AboutMe extends HTMLElement {
         <div class="row row-cols-1 row-cols-md-2">
           <div class="col-md-4 mb-4">
             <div class="card h-100">
-              <div class="card-header text-center"><h2>🤗</h2></div>
+              <div class="card-header text-center"><h2><span class="iconify" data-icon="iconoir:developer" data-inline="false" style="font-size: 1.2em;"></span></h2></div>
               <div class="card-body text-secondary text-center">
                 <p class="card-text lead">
                   Developer by passion and profession
@@ -39,17 +39,17 @@ class AboutMe extends HTMLElement {
           </div>
           <div class="col-md-4 mb-4">
             <div class="card h-100">
-              <div class="card-header text-center"><h2>💻</h2></div>
+              <div class="card-header text-center"><h2><span class="iconify" data-icon="streamline-ultimate-color:laptop" data-inline="false" style="font-size: 1.2em;"></span></h2></div>
               <div class="card-body text-secondary text-center">
                 <p class="card-text lead">
-                  Always in search for development best case practices
+                  Always in the look out for development best case practices
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-4 mb-4">
             <div class="card h-100">
-              <div class="card-header text-center"><h2>📜</h2></div>
+              <div class="card-header text-center"><h2><span class="iconify" data-icon="streamline-plump-color:script-2" data-inline="false" style="font-size: 1.2em;"></span></h2></div>
               <div class="card-body text-secondary text-center">
                 <p class="card-text lead">
                   Lifelong Javascript/Typescript student
@@ -59,17 +59,17 @@ class AboutMe extends HTMLElement {
           </div>
           <div class="col-md-4 mb-4">
             <div class="card h-100">
-              <div class="card-header text-center"><h2>🤖</h2></div>
+              <div class="card-header text-center"><h2><span class="iconify" data-icon="icon-park:robot-one" data-inline="false" style="font-size: 1.2em;"></span></h2></div>
               <div class="card-body text-secondary text-center">
                 <p class="card-text lead">
-                  Leveraging AI and Prompt Engineering
+                  Leveraging Claude Code & Spec-Driven Development
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-4 mb-4">
             <div class="card h-100">
-              <div class="card-header text-center"><h2>🚀</h2></div>
+              <div class="card-header text-center"><h2><span class="iconify" data-icon="streamline-emojis:rocket" data-inline="false" style="font-size: 1.2em;"></span></h2></div>
               <div class="card-body text-secondary text-center">
                 <p class="card-text lead">
                   Aiming to become a Software Architect
@@ -79,9 +79,9 @@ class AboutMe extends HTMLElement {
           </div>
           <div class="col-md-4 mb-4">
             <div class="card h-100">
-              <div class="card-header text-center"><h2>🦙</h2></div>
+              <div class="card-header text-center"><h2><span class="iconify" data-icon="noto:pizza" data-inline="false" style="font-size: 1.2em;"></span></h2></div>
               <div class="card-body text-secondary text-center">
-                <p class="card-text lead">Thinks Llamas are cool</p>
+                <p class="card-text lead">Big Pizza Fan!</p>
               </div>
             </div>
           </div>
